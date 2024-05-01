@@ -4,3 +4,4 @@ Dataset accessed from https://www.kaggle.com/c/h-and-m-personalized-fashion-reco
 
 We have uploaded the code in two different files.
 Preprocessing and EDA - Preprocessing and EDA.ipynb
+Apriori and collaborative filtering - Apriori and collabrative filtering.zip (As the file exceeds the size limit we have uploaded the zip file)
